@@ -47,12 +47,12 @@ Jokaisessa pelissä on omat vaikeustasot ja tulosten tallennus Firebaseen, mikä
   
 ## Mitä opin
 
-- React Native -sovellusten rakenteen ja komponenttien hallinnan.
-- Context API:n käytön nimimerkin ja tilan hallintaan.
-- Modaalien ja animaatioiden toteutuksen mobiilisovelluksissa.
-- Firebase-integraation perusperiaatteet ja tiedon tallentamisen mobiilisovelluksessa.
-- Pelilogiikan suunnittelun ja virheenkäsittelyn käytännön toteutuksen.
-- Erilaisten pelityyppien (strategiapelit, pulmapelit, reaaliaikaiset pelit) toteutuksen erityispiirteet.
+- React Native -sovellusten rakenteen ja komponenttien hallinnan
+- Context API:n käytön nimimerkin ja tilan hallintaan
+- Modaalien ja animaatioiden toteutuksen mobiilisovelluksissa
+- Firebase-integraation perusperiaatteet ja tiedon tallentamisen mobiilisovelluksessa
+- Pelilogiikan suunnittelun ja virheenkäsittelyn käytännön toteutuksen
+- Erilaisten pelityyppien (strategiapelit, pulmapelit, reaaliaikaiset pelit) toteutuksen erityispiirteet
   
 ## Video sovelluksen toiminnasta
 https://www.youtube.com/watch?v=smlNJxKitC0
