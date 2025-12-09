@@ -39,6 +39,7 @@ Jokaisessa pelissä on omat vaikeustasot ja tulosten tallennus Firebaseen, mikä
   
 ## Käytetyt teknologiat
 
+- JavaScript
 - React Native
 - Expo
 - Firebase
