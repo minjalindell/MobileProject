@@ -52,7 +52,7 @@ Jokaisessa pelissä on omat vaikeustasot ja tulosten tallennus Firebaseen, mikä
 - Modaalien ja animaatioiden toteutuksen mobiilisovelluksissa
 - Firebase-integraation perusperiaatteet ja tiedon tallentamisen mobiilisovelluksessa
 - Pelilogiikan suunnittelun ja virheenkäsittelyn käytännön toteutuksen
-- Erilaisten pelityyppien (strategiapelit, pulmapelit, reaaliaikaiset pelit) toteutuksen erityispiirteet
+- Omien pelieni erilaiset tyylilajit ja niiden toteutuksen erityispiirteet
   
 ## Video sovelluksen toiminnasta
 https://www.youtube.com/watch?v=smlNJxKitC0
